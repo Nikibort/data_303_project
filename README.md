@@ -1,2 +1,2 @@
 # data_303_project
-visualizing police data for the state of Virginia
+visualizing police data for San Antonio
